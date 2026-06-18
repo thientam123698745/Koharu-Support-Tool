@@ -10,11 +10,14 @@ A lightweight tool designed to help users with low-spec PCs quickly perform:
 📤 Exporting (translated images)
 
 📦 System Information
+
 Koharu Support version: 0.61.2
-🔗 Koharu Official Website
+
+Koharu Official Website: https://koharu.rs/
 
 Python version: 6.13
-🔗 Download Python
+
+Download Python: https://www.python.org/downloads/
 
 ✅ Tested on Windows 11
 
