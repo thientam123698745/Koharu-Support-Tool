@@ -11,10 +11,13 @@ A lightweight tool designed to help users with low-spec PCs quickly perform:
 
 📦 System Information
 Koharu Support version: 0.61.2
+🔗 Koharu Official Website
 
 Python version: 6.13
+🔗 Download Python
 
 ✅ Tested on Windows 11
+
 
 🚀 Quick Start
 1. Install dependencies (first run only)
