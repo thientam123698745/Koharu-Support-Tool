@@ -9,6 +9,12 @@ A lightweight tool designed to help users with low-spec PCs quickly perform:
 
 📤 Exporting (translated images)
 
+📦 System Information
+Koharu Support version: 0.61.2
+
+Python version: 6.13
+
+✅ Tested on Windows 11
 
 🚀 Quick Start
 1. Install dependencies (first run only)
