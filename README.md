@@ -12,7 +12,7 @@ A lightweight tool designed to help users with low-spec PCs quickly perform:
 
 🚀 Quick Start
 1. Install dependencies (first run only)
-py InstallLickcommand
+py InstallLybrary.py
 
 
 3. Run translation
