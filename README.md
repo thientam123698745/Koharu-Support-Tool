@@ -12,10 +12,11 @@ A lightweight tool designed to help users with low-spec PCs quickly perform:
 
 🚀 Quick Start
 1. Install dependencies (first run only)
+
 py InstallLybrary.py
 
 
-3. Run translation
+2. Run translation
 Find the port and run:
 python KST_QuickStart.py translate --port 4000
 
