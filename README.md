@@ -1,43 +1,42 @@
-🌸 Koharu-Support-Tool
+# 🌸 Koharu-Support-Tool
+
 A lightweight tool designed to help users with low-spec PCs quickly perform:
 
-📝 Translation (via Google Translate)
+- 📝 **Translation** (via Google Translate)  
+- 🎨 **Inpainting** (image correction)  
+- 🔧 **Transformations** (resize text blocks)  
+- 📤 **Exporting** (translated images)  
+- 📦 **System Information**  
 
-🎨 Inpainting (image correction)
+---
 
-🔧 Transformations (resize text blocks)
+## 📦 Version Info
+- Koharu Support version: **0.61.2**  
+- Koharu Official Website: [https://koharu.rs/](https://koharu.rs/)  
+- Python version: **6.13**  
+- Download Python: [https://www.python.org/downloads/](https://www.python.org/downloads/)  
+- ✅ Tested on **Windows 11**  with more than 2000-picture projects
 
-📤 Exporting (translated images)
+---
 
-📦 System Information
+## 🚀 Quick Start
 
-Koharu Support version: 0.61.2
-
-Koharu Official Website: https://koharu.rs/
-
-Python version: 6.13
-
-Download Python: https://www.python.org/downloads/
-
-✅ Tested on Windows 11
-
-
-🚀 Quick Start
-1. Install dependencies (first run only)
-
+### 1. Install dependencies (first run only)
+```bash
 py InstallLybrary.py
-
-
-2. Run translation
+```
+### 2. Run translation
 Find the port and run:
+```bash
 python KST_QuickStart.py translate --port 4000
-
+```
 
 👉 This will:
-Detect all OCR text blocks
-Translate them via Google Translate
-Post results to the Kohaku server
+- Detect all OCR text blocks  
+- Translate them via Google Translate  
+- Post results to the Kohaku server  
 
+---
 🎨 Features & Commands
 Feature	Command	Description
 | Feature | Command | Description |
@@ -49,12 +48,11 @@ Feature	Command	Description
 | **Run All** | ``python ``KST_QuickStart.py ``all ``--port ``4000`` | Translate + Inpaint + Transform in one go |
 
 
-📂 Output
-Translated images are saved in the Export folder.
+## 📂 Output
+- Translated images are saved in the **Export** folder.  
+- Original filenames are preserved for easy tracking.  
 
-Original filenames are preserved for easy tracking.
+## 💡 Notes
+- Designed for **low-spec PCs** to ensure smooth performance.  
+- All-in-one workflow: **Translate → Inpaint → Transform → Export**.  
 
-💡 Notes
-Designed for low-spec PCs to ensure smooth performance.
-
-All-in-one workflow: Translate → Inpaint → Transform → Export.
